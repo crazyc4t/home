@@ -1,0 +1,59 @@
+# baseURL = "https://your_domain.com/"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "crazyc4t's links"
+copyright = "Made with ❤️ & open source software"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "crazyc4t🔒"
+  headline = "Cybersecurity Analyst, linux nerd and japanese lover!"
+  image = "meAnime.png"  # path relative to static directory
+
+  links = [
+    { email = "mailto:snederc@protonmail.com" },
+    # { link = "https://link-to-some-website.com/" },
+    # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    # { apple = "https://www.apple.com" },
+    # { codepen = "https://codepen.io/username" },
+    # { dev = "https://dev.to/username" },
+    { discord = "https://discord.com/users/744022544624910446" },
+    # { dribbble = "https://dribbble.com/username" },
+    # { facebook = "https://facebook.com/username" },
+    # { flickr = "https://www.flickr.com/photos/username/" },
+    # { foursquare = "https://foursquare.com/username" },
+    { github = "https://github.com/crazyc4t" },
+    { gitlab = "https://gitlab.com/crazyc4t" },
+    # { google = "https://www.google.com/" },
+    # { instagram = "https://instagram.com/username" },
+    # { keybase = "https://keybase.io/username" },
+    # { kickstarter = "https://www.kickstarter.com/profile/username" },
+    # { lastfm = "https://lastfm.com/user/username" },
+    { linkedin = "https://linkedin.com/in/said-neder" },
+    # { mastodon = "https://mastodon.instance/@username" },
+    # { medium = "https://medium.com/username" },
+    # { microsoft = "https://www.microsoft.com/" },
+    # { patreon = "https://www.patreon.com/username" },
+    # { pinterest = "https://pinterest.com/username" },
+    # { reddit = "https://reddit.com/user/username" },
+    # { slack = "https://workspace.url/team/userid" },
+    # { snapchat = "https://snapchat.com/add/username" },
+    # { soundcloud = "https://soundcloud.com/username" },
+    # { steam = "https://steamcommunity.com/profiles/userid" },
+    { telegram = "https://t.me/crazyc4t" },
+    { kofi = { href = "https://ko-fi.com/crazyc4t", text = "Donations on ko-fi" } },
+    # { tiktok = "https://tiktok.com/@username" },
+    # { tumblr = "https://username.tumblr.com" },
+    # { twitch = "https://twitch.tv/username" },
+    # { twitter = "https://twitter.com/username" },
+    # { whatsapp = "https://wa.me/phone-number" },
+    # { youtube = "https://youtube.com/username" },
+  ]
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"
