@@ -1,4 +1,4 @@
-# baseURL = "https://your_domain.com/"
+baseURL = "https://crazyc4t.xyz/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { email = "mailto:snederc@protonmail.com" },
-    # { link = "https://link-to-some-website.com/" },
+    { link = { href = "https://blog.crazyc4t.xyz/", text = "Blog" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -44,7 +44,7 @@ disableKinds = ["taxonomy", "term"]
     # { soundcloud = "https://soundcloud.com/username" },
     # { steam = "https://steamcommunity.com/profiles/userid" },
     { telegram = "https://t.me/crazyc4t" },
-    { kofi = { href = "https://ko-fi.com/crazyc4t", text = "Donations on ko-fi" } },
+    { kofi = { href = "https://ko-fi.com/crazyc4t", text = "Donations" } },
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },

@@ -1,4 +1,4 @@
-module github.com/crazyc4t/links
+module github.com/crazyc4t/home
 
 go 1.20
 
