@@ -3,14 +3,14 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "crazyc4t's links"
-copyright = "Made with ❤️ & open source software"
+copyright = "Made with ❤️ & Open Source Software"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "crazyc4t🔒"
-  headline = "Cybersecurity Analyst, linux nerd and japanese lover!"
+  headline = "Cybersecurity Analyst, linux nerd and japanese student!"
   image = "meAnime.png"  # path relative to static directory
 
   links = [
